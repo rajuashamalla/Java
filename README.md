@@ -28,10 +28,4 @@ This is my **daily progress tracker**, where I’ll be learning and building in 
 
 To become **job-ready** as a **QA Automation Engineer** and secure opportunities with top companies by proving my skills, consistency, and learning mindset.
 
----
 
-## 📍 Track My Progress
-
-Each folder contains the day-wise breakdown of what I’ve learned and implemented.
-
-📂 Example:

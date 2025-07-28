@@ -1,5 +1,4 @@
 package day2;
-
 //1) Declare an array
 //2) add values into an array
 //3) find the size of an array
@@ -39,9 +38,6 @@ public class SingleDimensionalArray {
 			System.out.println(x);
 		}
 		
-		
-		
-		
-	}
+		}
 
 }

@@ -1,39 +1,49 @@
-# 🚀 40-Day Software Testing Challenge
+🚀 Java Programs for QA Testing | 40-Day QA Challenge
+Welcome to my Java practice repository!
+This repo is part of my 40-Day QA Learning Challenge, where I’m learning Java to build a strong foundation for Manual Testing, Selenium Automation, and SDET roles.
 
-Hi, I'm **Raju A** — an aspiring QA Engineer on a mission to build strong foundational and practical skills in **Software Testing** within 40 days.
+📌 Topics Covered So Far
+✅ Basics of Java: Variables, Data Types, Operators
 
-This repository tracks my daily learning progress across **Java**, **Manual Testing**, **Selenium**, **API Testing**, and **Cucumber**.
+✅ Control Flow: if-else, switch, loops
 
----
+✅ OOP Concepts: Class, Object, Inheritance, Polymorphism, Encapsulation, Abstraction
 
-## 📅 Daily Progress
+✅ Constructor & Static Blocks
 
-| Day | Java Topics                             | Manual Testing Topics                                  |
-|-----|------------------------------------------|--------------------------------------------------------|
-| 1   | Java Introduction, JDK & Eclipse Setup, Variables, Data Types, Operators | What is Software Testing, SDLC vs STLC, QA vs QC, Manual vs Automation |
-| 2   | Loops (for, while, do-while), Arrays     | SDLC Phases, Waterfall vs V-Model vs Agile            |
-| 3   | OOPs: Class, Object, Methods, Strings    | STLC Phases & Deliverables                            |
-| ... | ...                                      | ...                                                    |
+✅ Wrapper Classes & Data Conversion
 
-> 📌 I update code and notes daily under separate folders for each day.
+✅ Packages & Access Modifiers
 
----
+✅ Exception Handling
 
-## 🧰 Technologies & Tools Used
+✅ Collections: ArrayList, HashMap, HashSet
 
-- **Java (OOPs, Loops, Arrays, etc.)**
-- **Manual Testing (Test Cases, Bug Reports, STLC/SDLC)**
-- **Selenium WebDriver (Upcoming)**
-- **API Testing using Postman (Upcoming)**
-- **Cucumber & BDD (Upcoming)**
-- **Git & GitHub for version control**
+✅ String, StringBuilder, StringBuffer
 
----
+✅ Abstract Classes & Interfaces
 
-## 📂 Repository Structure
+✅ Type Casting
 
-```bash
-📁 Day01_Java_Basics_ManualTesting
-📁 Day02_Loops_Arrays_SoftwareModels
-📁 Day03_OOPs_STLC
-...
+✅ Iterator & for-each loop
+
+🔧 Tech Stack
+Language: Java 8+
+
+IDE: Eclipse
+
+✍️ Author
+Raju Ashamalla
+
+🚀 Aspiring QA Engineer | Java | Selenium | Manual & API Testing
+
+📅 40-Day QA Learning Challenge
+
+🔗 https://www.linkedin.com/in/raju-ashamalla/
+
+📁 Manual Testing & Java Projects
+
+🌟 Support
+If you find this useful, feel free to ⭐ the repo and connect with me on LinkedIn.
+Let’s grow together in the testing world!
+
